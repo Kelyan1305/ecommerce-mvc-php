@@ -1,6 +1,6 @@
-CREATE DATABASE Smartbike;
+CREATE DATABASE ecommerce;
 
-USE Smartbike;
+USE ecommerce;
 
 -- Table pour les produits
 CREATE TABLE products (
