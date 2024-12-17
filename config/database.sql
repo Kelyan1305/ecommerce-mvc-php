@@ -1,6 +1,6 @@
 CREATE DATABASE Smartbike;
 
-USE Smartbike++;
+USE Smartbike;
 
 -- Table pour les produits
 CREATE TABLE products (
